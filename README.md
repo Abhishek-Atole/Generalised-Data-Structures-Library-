@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/Generalised-Data-Structures-Library-/actions">
-    <img src="https://github.com/yourusername/Generalised-Data-Structures-Library-/workflows/CI/badge.svg" alt="Build Status">
+  <a href="https://github.com/AbhishekAtole/Generalised-Data-Structures-Library-/actions">
+    <img src="https://github.com/AbhishekAtole/Generalised-Data-Structures-Library-/workflows/CI/badge.svg" alt="Build Status">
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
@@ -24,7 +24,14 @@
 ## 📽️ Demo
 
 <p align="center">
-  <img src="docs/demo.gif" alt="Demo Animation" width="600"/>
+  <img src="Resources/Final Output.png" alt="Generalised Data Structures Library Demo" width="600"/>
+</p>
+
+<p align="center">
+  <video width="600" controls>
+    <source src="Resources/Final Output .mkv" type="video/x-matroska">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 <p align="center">
