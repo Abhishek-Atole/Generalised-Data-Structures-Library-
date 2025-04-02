@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
 #pragma pack(1)
 
 // structure for Singly linked list
