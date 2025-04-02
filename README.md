@@ -1,2 +1,23 @@
-# Generalised-Data-Structures-Library-
-A C++ library with pre-built generic implementations of linear and non-linear data structures, including stacks, queues, trees, and graphs. Supports OOP principles and memory-optimized algorithms. Useful for software development, competitive programming, and academic learning.
+# Generalised Data Structures Library
+
+## Overview
+A generic **data structure library** that includes ready-to-use implementations of fundamental and advanced **linear & non-linear structures**.
+
+## Features
+- **Generic Implementations**: Supports multiple data types.
+- **Object-Oriented Approach**: Utilizes best **OOP practices**.
+- **Pre-built Operations**: Covers basic to advanced **data structure algorithms**.
+
+## Technologies Used
+- **Programming Language:** C++
+- **Data Structures:** Stacks, Queues, Trees, Graphs, HashMaps
+
+## Installation & Usage
+```bash
+# Clone this repository
+git clone https://github.com/Abhishek-Atole/Generalised-Data-Structures-Library-.git
+cd ds-library
+# Compile the library
+g++ ds_library.cpp -o ds_library
+# Run an example
+./ds_library
