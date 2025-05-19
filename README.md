@@ -1,8 +1,8 @@
 <!-- Project Logo -->
-<p align="center">
+<!-- <p align="center">
   <img src="docs/logo.png" alt="Generalised Data Structures Library Logo" width="180"/>
 </p>
-
+-->
 <h1 align="center">Generalised Data Structures Library</h1>
 
 <p align="center">
