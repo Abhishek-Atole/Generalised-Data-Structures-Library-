@@ -1,8 +1,7 @@
 <!-- Project Logo -->
-<!-- <p align="center">
-  <img src="docs/logo.png" alt="Generalised Data Structures Library Logo" width="180"/>
+<p align="center">
+  <img src="Resources/logo.png" alt="Generalised Data Structures Library Logo" width="180"/>
 </p>
--->
 <h1 align="center">Generalised Data Structures Library</h1>
 
 <p align="center">
@@ -198,5 +197,5 @@ For questions or support, please open an issue or contact via [GitHub](https://g
 ---
 
 <p align="center">
-  <img src="docs/logo.png" alt="Logo" width="80"/>
+  <img src="Resources/logo.png" alt="Logo" width="80"/>
 </p>
